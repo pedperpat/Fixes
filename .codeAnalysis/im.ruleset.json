@@ -1,0 +1,26 @@
+{
+    "name": "IM ruleset",
+    "description": "Estas reglas son las que no son necesarias",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "Hidden",
+            "justification": "No es posible resolver"
+        },
+        {
+            "id": "AS0084",
+            "action": "Hidden",
+            "justification": "Numeración para cliente"
+        },
+        {
+            "id": "AA0206",
+            "action": "Hidden",
+            "justification": "Hay que variables que si se usan pero no las detecta"
+        },
+	{
+	    "id": "AS0054",
+            "action": "Hidden",
+            "justification": "No quiero ponerle sufijos!"
+	}
+    ]
+}

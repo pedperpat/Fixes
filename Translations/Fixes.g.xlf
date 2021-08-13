@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Fixes">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 213136477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kill Active Session</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Active Session List Custom - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 183525777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kill Session</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Session List Custom - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 186426921 - Action 931083372 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Print custom layout</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Imprimir layout"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension2 - Action printCustomLayout - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 186426921 - Action 931083372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Print custom layout</source>
+          <note from="Developer" annotates="general" priority="2">ESP"Imprimir layout"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension2 - Action printCustomLayout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 186426921 - Control 392726567 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Shipping No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº albarán"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension2 - Control Shipping No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 186426921 - Control 392726567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Shipping No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nº albarán"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MyExtension2 - Control Shipping No. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

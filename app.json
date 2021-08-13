@@ -1,0 +1,26 @@
+{
+  "id": "34ce8ad0-0c51-45f5-8755-e3be5d9f9d7c",
+  "name": "Fixes",
+  "publisher": "Default publisher",
+  "version": "1.0.0.2",
+  "brief": "kk",
+  "description": "kk",
+  "privacyStatement": "https://www.im-projects.com/inicio/",
+  "EULA": "https://www.im-projects.com/inicio/",
+  "help": "https://www.im-projects.com/inicio/",
+  "url": "https://www.im-projects.com/inicio/",
+  "logo": "./logo/IM-PROJECTS.png",
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50850,
+      "to": 50859
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Test_salesLine.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
